@@ -8,9 +8,9 @@
 
 所选颜色亮度经过自动的调节
 
-![Group 1](readme.assets/Group 1.png)
+![金鱼](https://github.com/LongMenJuZhen/YAP-YetAnotherPalette/blob/master/readme.assets/Group%201.png)
 
-![Group 2](readme.assets/Group 2.png)
+![插画](https://github.com/LongMenJuZhen/YAP-YetAnotherPalette/blob/master/readme.assets/Group%202.png)
 
 # 原理介绍
 
